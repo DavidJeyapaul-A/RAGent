@@ -1,0 +1,1 @@
+# Centralized config (pydantic/.env)

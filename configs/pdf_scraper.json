@@ -1,0 +1,10 @@
+{
+  "chunk_size": 500,
+  "chunk_overlap": 100,
+  "split_by": "sentence",
+  "strip_headers": true,
+  "pdf_text_cleaning": {
+    "remove_page_numbers": true,
+    "remove_empty_lines": true
+  }
+}

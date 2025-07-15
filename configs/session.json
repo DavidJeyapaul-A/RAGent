@@ -1,0 +1,5 @@
+{
+  "session_type": "memory",
+  "timeout": 3600,
+  "max_context_length": 5
+}
