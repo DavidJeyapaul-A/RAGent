@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore GitHub workflows and config
+.github/
+
+# Ignore DS_Store 
+.DS_Store
