@@ -1,8 +1,6 @@
 {
-  "llm_type": "ollama",
-  "model_name": "mistral",
-  "base_url": "http://localhost:11434",
-  "temperature": 0.7,
-  "max_tokens": 512,
-  "system_prompt": "You are a helpful assistant with access to technical documents."
+  "model_name": "llama3",
+  "provider": "ollama",
+  "temperature": 0.2,
+  "max_tokens": 1024
 }

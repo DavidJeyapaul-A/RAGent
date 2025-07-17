@@ -1,5 +1,0 @@
-{
-  "vector_store": "faiss",
-  "top_k": 5,
-  "distance_metric": "cosine"
-}

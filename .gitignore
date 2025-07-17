@@ -9,3 +9,9 @@ venv/
 
 # Ignore DS_Store 
 .DS_Store
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore log files
+*.log

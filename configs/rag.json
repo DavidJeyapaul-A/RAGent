@@ -1,0 +1,6 @@
+{
+  "top_k": 5,
+  "score_threshold": 0.75,
+  "use_max_marginal_relevance": true,
+  "fetch_k": 20
+}
